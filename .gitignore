@@ -1,0 +1,12 @@
+# Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Trial videos and everything derived from them (large; unpublished data)
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.wav
+output/
